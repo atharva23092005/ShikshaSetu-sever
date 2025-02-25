@@ -1,3 +1,3 @@
 ShikshaSetu sever
 
-.Scholarship form system in online mode
+Scholarship form system in online mode
